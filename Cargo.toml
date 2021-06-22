@@ -2,7 +2,7 @@
 name = "rss-video-player"
 version = "0.1.0"
 authors = ["Paul Skinner <paulskin@gmail.com>"]
-edition = "2018"
+edition = "2019"
 
 [dependencies]
 log = "0.4"
